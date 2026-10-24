@@ -10,8 +10,8 @@ Open to AI/ML engineer roles and internships.
 Deterministic agentic RAG built from scratch in Python (no LangChain) that routes queries across different document types.
 <!-- TODO: add eval result once done -->
 
-**[Mood-Based Story Generator](https://github.com/RohanBabbar/mood-story-rag)**
-Illustrated story generator with RAG over user-uploaded lore (FAISS + MiniLM). Includes a LoRA fine-tuned Llama-3.2-3B adapter on the Hugging Face Hub.
+**[Mood-Based Story Generator](https://github.com/RohanBabbar/mood-story-rag)** · [▶ Live demo](https://rohanbabbar913--mood-story-web.us-east.modal.run)
+Illustrated story generator with RAG over user-uploaded lore (FAISS + MiniLM), running Llama on Groq with SD-Turbo images, deployed on Modal.
 <!-- TODO: add "Live demo" link after deployment -->
 
 **[Hinglish Speech Processing](https://github.com/RohanBabbar/ASR_Research)**
