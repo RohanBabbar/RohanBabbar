@@ -26,10 +26,6 @@ Python · PyTorch · Hugging Face Transformers · PEFT/LoRA · FAISS · Sentence
 
 ### 📊 GitHub activity
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RohanBabbar&show_icons=true&hide_rank=true&hide_border=true&theme=github_dark" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanBabbar&layout=compact&langs_count=6&hide_border=true&theme=github_dark" />
-</p>
 
 ### 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/rohan-babbar-7b42762b1/) · rohanbabbar913@gmail.com
