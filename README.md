@@ -24,8 +24,6 @@ Fine-tuned CodeBERT, RoBERTa and CodeT5 to classify software vulnerabilities on 
 ### 🧰 Stack
 Python · PyTorch · Hugging Face Transformers · PEFT/LoRA · FAISS · Sentence-Transformers · Gradio
 
-### 📊 GitHub activity
-
 
 ### 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/rohan-babbar-7b42762b1/) · rohanbabbar913@gmail.com
